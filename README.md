@@ -1,1 +1,1 @@
-# react-movies
+# indeva-challenge
